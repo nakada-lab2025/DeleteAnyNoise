@@ -1,2 +1,2 @@
-# DeleteSniffle
+# DeleteAnyNoise
 You can delete sniffle noise!
